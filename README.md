@@ -8,6 +8,6 @@ To make this work:
 
 3)Make a Spotify Developer account and make a app to get your client id and client secret and put them in the .env file.
 
-4)Just go throught both main.py and download.py and put the required paths.Then put your playlist link and first run main.py then download.py.
+4)Just go through both main.py and download.py and put the required paths.Then put your playlist link and first run main.py then download.py.
 
 Thank You!
